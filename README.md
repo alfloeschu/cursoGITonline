@@ -1,4 +1,7 @@
 Curso de Git ONline
-Repositorio del curso de Git Online.
 
 Linea de programador2
+
+Programador1
+Repositorio del curso de Git Online
+
